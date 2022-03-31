@@ -1,0 +1,16 @@
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.csproj.AssemblyReference.cache
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.UserInterface.resources
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.cache
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\SwipesCollectionManagementService.dll
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\SynConnectDLL.dll
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\SwipesCollectionManagementService.pdb
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\bin\Debug\SwipesCollectionManagementService.dll.config
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.csproj.CopyComplete
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\Aziz_Norboev\Documents\GitHub\ConcurrentProgrammingCW\CP_CW_10881\ClientSide\obj\Debug\ClientSide.pdb

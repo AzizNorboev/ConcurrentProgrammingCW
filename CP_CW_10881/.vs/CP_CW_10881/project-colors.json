@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92fee867-0c77-43e6-81fd-e6e470b99099": {
+      "ProjectGuid": "92fee867-0c77-43e6-81fd-e6e470b99099",
+      "DisplayName": "ClientSide",
+      "ColorIndex": 0
+    },
+    "5743bd6a-8f33-40e0-9d81-055a2d06eeeb": {
+      "ProjectGuid": "5743bd6a-8f33-40e0-9d81-055a2d06eeeb",
+      "DisplayName": "SwipesCollectionManagementService",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
